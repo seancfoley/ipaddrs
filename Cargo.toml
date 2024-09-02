@@ -1,0 +1,15 @@
+[package]
+name = "ipaddrs"
+description = "Library for handling IP addresses and subnets, both IPv4 and IPv6"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+homepage = "https://seancfoley.github.io/IPAddress/"
+repository = "https://github.com/seancfoley/ipaddrs"
+readme = "README.md"
+
+# with version 1.0.0, add keywords and categories
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
